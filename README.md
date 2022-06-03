@@ -43,29 +43,3 @@
 10. React.js context API
 11. Express & React.js with TypeScript
 12. Clean project structure
-
-## Video structure
-1. Demonstration
-2. Code walk-through
-3. Bootstrap server
-    * Initialise application
-    * Setup express
-    * Setup logger
-    * Setup Mongoose
-4. User
-    * Register user
-    * Login
-    * Require user and deserialize user middleware
-    * Get current user
-5. Video
-    * Upload video
-    * Update video
-    * Get all videos
-    * Stream video
-6. Setup client
-7. Auth
-    * Login screen
-    * Register screen
-8. Video
-    * Upload video
-    * Stream video 
